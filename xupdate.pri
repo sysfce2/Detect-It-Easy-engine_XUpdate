@@ -7,9 +7,6 @@ HEADERS += \
 SOURCES += \
     $$PWD/xupdate.cpp
 
-FORMS += \
-    $$PWD/xupdate.ui
-
 DISTFILES += \
     $$PWD/LICENSE \
     $$PWD/README.md \
